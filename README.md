@@ -1,5 +1,5 @@
 # 💫 Hi I Umidjon 🧠🚀
-I ❤️ GitHub!
+
 - 🔭 **I am currently unemployed** Enter your project details here
 - 🌱 **I am currently studying:** Enter your technology here
 - 👯 **I want to collaborate:** Enter your project name and details
