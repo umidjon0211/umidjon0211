@@ -1,4 +1,4 @@
-# 💫 Hi I Umidjon 🧠🚀
+### 💫 Hi I Umidjon 🧠🚀
 
 - 🔭 **I am currently unemployed** Enter your project details here
 - 🌱 **I am currently studying:** Enter your technology here
